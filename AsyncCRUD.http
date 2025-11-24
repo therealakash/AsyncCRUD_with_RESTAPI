@@ -1,0 +1,6 @@
+@AsyncCRUD_HostAddress = http://localhost:5240
+
+GET {{AsyncCRUD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
